@@ -1,3 +1,4 @@
+"use client";
 import { Fuel, ArrowLeftRight, Droplet, ClipboardList } from 'lucide-react';
 
 export default function Dashboard() {
